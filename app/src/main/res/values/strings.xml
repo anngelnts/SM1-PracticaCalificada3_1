@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaCalificada3_1</string>
+    <string name="view_map">Mostrar Mapa</string>
+    <string name="camera_description">Camera</string>
+</resources>
